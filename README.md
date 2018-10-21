@@ -1,6 +1,6 @@
 # hello_world
 Oh hi there. I'm on tutorial mode.
-Seriously. Read ll of this.
+Seriously. Read all of this.
 If you dont, lawyers will come for you in a helicopter, drop down, tranquilize you, rip your limbs apart, and tape them back on with tape.
 
 Clear tape. Not duct tape.
